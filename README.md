@@ -1,8 +1,8 @@
 # Michael Nall's GitHub Profile
 
-Welcome to my public profile! 
+Welcome to my public profile!
 
-I am currently working on the [Learn Enough](https://www.learnenough.com/) sequence of courses to become a Web Developer. I have completed the Developer Fundamentals sequence, and I am now in the middle of the Web Basics sequence.
+I am currently working on the [Learn Enough](https://www.learnenough.com/) sequence of courses to become a Web Developer. I have completed the Developer Fundamentals sequence, and I am now in the middle of the Web Basics sequence. Ultimately, I will complete the Ruby on Rails tutorial to learn how to develop and deploy real, industrial-strength, web applications.
 
 Below is a [Certficate of Completion](https://www.learnenough.com/certificates/miken) from [Learn Enough](https://www.learnenough.com/). It works like this:
 
